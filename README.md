@@ -7,11 +7,15 @@ I build developer tools, add-ons for Claude, games, and interactive learning sit
 |---|---|
 | [OmniContext](https://github.com/aaryanbindage/omnicontext) | Persistent cross-device memory for Claude: profile, projects, handoffs. MCP server, Claude Code plugin, desktop app ([site](https://aaryanbindage.github.io/omnicontext/)) |
 | [Twinbraid](https://github.com/aaryanbindage/twinbraid) | Run two coding agents (Claude Code, Codex, local models) together on one project and watch both think. Windows + macOS ([site](https://aaryanbindage.github.io/twinbraid/)) |
+| [Twinbraid](https://github.com/aaryanbindage/twinbraid) | Pair any two coding agents (Claude Code, Codex, Ollama, Gemini CLI, Aider) in one workspace ([site](https://aaryanbindage.github.io/twinbraid/)) |
+| [LawLens](https://github.com/aaryanbindage/lawlens) | Search California, all-state and federal US laws by keyword or citation, with an AI analyst |
 | [FaceLock](https://github.com/aaryanbindage/FaceLock) | Face ID for Windows with a regular webcam |
 | [Quill](https://github.com/aaryanbindage/Quill) | A statically typed, class-only language that compiles to LLVM |
 | [Quill IDE](https://github.com/aaryanbindage/Quill-IDE) | A VS Code fork for Quill |
 | [LidWake](https://github.com/aaryanbindage/Lidwake) | Keeps a MacBook awake with the lid closed until Claude finishes |
 | [Shell Hunter](https://github.com/aaryanbindage/ShellHunter) | Live dashboard of every shell Claude Code is running |
+| [Phylodiff](https://github.com/aaryanbindage/phylodiff) | Browse the NCBI tree of life and compare any two species in 3D |
+| [Oathbound](https://github.com/aaryanbindage/Oathbound) | An unofficial Stormlight Archive fan RPG for Windows and macOS |
 | [Neuron Lab](https://aaryanbindage.github.io/Neuron-Lab/) | Interactive intro to neural networks |
 | [Unix From Zero](https://aaryanbindage.github.io/UnixFromZero/) | 17 hands-on Unix command-line lessons in the browser |
 | [Conlang Workshop](https://aaryanbindage.github.io/ConLangTool/) | Build a constructed language visually |
