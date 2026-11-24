@@ -5,9 +5,9 @@ I build developer tools, add-ons for Claude, games, and interactive learning sit
 
 | Project | What it is |
 |---|---|
+| [Domus](https://domusnation.duckdns.org/) | A free online nation you can join: citizenship, a digital passport, a National Council, public offices to apply for, laws, a forum and a marketplace |
 | [OmniContext](https://github.com/aaryanbindage/omnicontext) | Persistent cross-device memory for Claude: profile, projects, handoffs. MCP server, Claude Code plugin, desktop app ([site](https://aaryanbindage.github.io/omnicontext/)) |
 | [Twinbraid](https://github.com/aaryanbindage/twinbraid) | Run two coding agents (Claude Code, Codex, local models) together on one project and watch both think. Windows + macOS ([site](https://aaryanbindage.github.io/twinbraid/)) |
-| [Twinbraid](https://github.com/aaryanbindage/twinbraid) | Pair any two coding agents (Claude Code, Codex, Ollama, Gemini CLI, Aider) in one workspace ([site](https://aaryanbindage.github.io/twinbraid/)) |
 | [LawLens](https://github.com/aaryanbindage/lawlens) | Search California, all-state and federal US laws by keyword or citation, with an AI analyst |
 | [FaceLock](https://github.com/aaryanbindage/FaceLock) | Face ID for Windows with a regular webcam |
 | [Quill](https://github.com/aaryanbindage/Quill) | A statically typed, class-only language that compiles to LLVM |
